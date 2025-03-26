@@ -5,6 +5,8 @@ import math
 
 # print(maze_cost_array)
 
+# test comment
+
 class Maze:
     def __init__(self, set_grid_size = 3):
         self.gridsize = set_grid_size
